@@ -1,0 +1,5 @@
+project:
+  title: presentation
+  output-dir: _output
+  render:
+    - infosec-intro-lab02-presentation.qmd
