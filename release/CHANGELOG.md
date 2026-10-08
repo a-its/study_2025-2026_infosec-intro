@@ -1,3 +1,10 @@
+## 1.4.11 (2026-10-08)
+
+### Documentation
+
+* **lab04:** add report and presentation from recorded experiments.
+* **lab04:** include Markdown, screenshots and source archive with HTML presentation.
+
 ## 1.4.10 (2026-10-08)
 
 ### Documentation
