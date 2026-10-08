@@ -1,3 +1,17 @@
+## 1.4.10 (2026-10-08)
+
+### Documentation
+
+* **lab03:** add report and presentation from recorded experiments.
+* **lab03:** include rendered Markdown, screenshots and source archive.
+
+## 1.4.9 (2026-10-08)
+
+### Documentation
+
+* **lab02:** add report and presentation sources.
+* **lab02:** include rendered Markdown and source archive.
+
 ## 1.4.8 (2026-10-08)
 
 ### Documentation

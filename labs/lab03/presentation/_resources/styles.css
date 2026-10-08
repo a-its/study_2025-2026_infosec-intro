@@ -1,0 +1,16 @@
+.reveal { font-size: 30px; }
+.reveal h1 { font-size: 1.8em; }
+.reveal h2 { font-size: 1.25em; }
+.reveal .columns { display: flex; gap: 28px; align-items: center; width: 100%; }
+.reveal .column { min-width: 0; flex-shrink: 1; }
+.reveal .column img { max-width: 100%; height: auto; max-height: 400px; object-fit: contain; }
+.reveal .column .quarto-figure, .reveal .column figure { width: 100%; margin: 0; }
+.reveal figure { margin: 0; }
+.reveal figcaption { font-size: 0.68em; line-height: 1.2; margin-top: 14px; }
+.reveal table { font-size: 0.9em; }
+.reveal .references { font-size: 0.63em; line-height: 1.35; }
+.reveal .references .csl-entry { margin-bottom: 14px; }
+.reveal #title-slide h1 { font-size: 1.65em; }
+.reveal #title-slide .subtitle { font-size: 0.85em; }
+.reveal #title-slide .institute { font-size: 0.65em; }
+.reveal .slide-logo { max-height: 48px; }
