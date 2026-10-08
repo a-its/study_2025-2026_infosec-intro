@@ -1,0 +1,5 @@
+project:
+  title: report
+  output-dir: _output
+  render:
+    - infosec-intro-lab02-report.qmd
