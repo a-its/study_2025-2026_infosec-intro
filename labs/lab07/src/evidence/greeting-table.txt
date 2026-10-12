@@ -1,0 +1,31 @@
+Текст: С Новым Годом, друзья!
+Кодировка: cp1251
+Длина текста: 22 байт
+P HEX: D1 20 CD EE E2 FB EC 20 C3 EE E4 EE EC 2C 20 E4 F0 F3 E7 FC FF 21
+C HEX: CD C0 BA 56 69 5F 36 0E E4 D1 A8 89 6C 8B 22 07 E3 C8 BA 96 BB 9D
+K HEX: 1C E0 77 B8 8B A4 DA 2E 27 3F 4C 67 80 A7 02 E3 13 3B 5D 6A 44 BC
+Проверка C XOR K = P: True
+Байты: C XOR P = K
+ i  C   P   K
+ 1  CD  D1  1C
+ 2  C0  20  E0
+ 3  BA  CD  77
+ 4  56  EE  B8
+ 5  69  E2  8B
+ 6  5F  FB  A4
+ 7  36  EC  DA
+ 8  0E  20  2E
+ 9  E4  C3  27
+10  D1  EE  3F
+11  A8  E4  4C
+12  89  EE  67
+13  6C  EC  80
+14  8B  2C  A7
+15  22  20  02
+16  07  E4  E3
+17  E3  F0  13
+18  C8  F3  3B
+19  BA  E7  5D
+20  96  FC  6A
+21  BB  FF  44
+22  9D  21  BC
