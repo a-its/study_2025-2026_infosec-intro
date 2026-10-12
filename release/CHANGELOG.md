@@ -1,3 +1,17 @@
+## 1.4.13 (2026-10-12)
+
+
+### Features
+
+* **lab06:** add SELinux experiment files and restoration script ([76bbc47](https://gitverse.ru/a-its/study_2025-2026_infosec-intro/commit/76bbc4776a5b7000fc7eea0bf46e459967b73bc0))
+
+### Documentation
+
+* **lab06:** add report and presentation from recorded SELinux experiments.
+* **lab06:** include Markdown, 31 screenshots and source archive with HTML presentation.
+
+
+
 ## 1.4.12 (2026-10-08)
 
 ### Documentation
