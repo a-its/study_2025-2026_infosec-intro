@@ -1,0 +1,4 @@
+*.py text eol=lf
+*.txt text eol=lf
+*.hex text eol=lf
+*.tsv text eol=lf
