@@ -1,3 +1,21 @@
+## 1.4.15 (2026-10-12)
+
+
+### Bug Fixes
+
+* **lab08:** normalize generated HTML whitespace ([7030d4a](https://gitverse.ru/a-its/study_2025-2026_infosec-intro/commit/7030d4a44ae8a235c3dfdf247feecee26e77f03c))
+
+
+### Features
+
+* **lab08:** implement repeated gamma encryption and plaintext recovery ([e066ee7](https://gitverse.ru/a-its/study_2025-2026_infosec-intro/commit/e066ee703ab8a27c025871de4ec017c179dedea4))
+
+### Documentation
+
+* **lab08:** add report and presentation from recorded repeated-gamma experiments.
+* **lab08:** include Markdown, 23 screenshots, bytewise XOR analysis and source archive.
+
+
 ## 1.4.14 (2026-10-12)
 
 
